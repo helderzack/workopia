@@ -1,0 +1,16 @@
+{
+    "name": "helderzack/workopia",
+    "description": "Job Listing Application with vanilla PHP",
+    "authors": [
+        {
+            "name": "Hélder Zacarias",
+            "email": "helderzacarias@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
